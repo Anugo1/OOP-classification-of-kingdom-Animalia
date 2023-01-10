@@ -16,7 +16,7 @@ Polymorphism was used to enforce method overriding in to classes that had differ
 Encapsulation was used to improve code security by making some methods and properties of an object private
 
 ## Way to run the code:
-- Close this repository in your pc 
+- Clone this repository in your pc 
 - Be sure to install [node.js](https://nodejs.org)
 - Then run the code.
 
